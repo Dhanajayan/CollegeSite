@@ -1,0 +1,211 @@
+/*============ left part ==+*/
+
+.leftPart{
+	width: 350px;
+/*	box-shadow: 1px 1px 5px 0px; */
+	float: left;
+	
+}
+
+.leftPart .firstGame{
+	margin-left: 80px;
+	box-shadow: 1px 1px 5px 0px; 
+	background-color: #6BB9F0;
+	height: 50px;
+	width: 250px;
+
+}
+
+.leftPart .secondGame{
+	margin-left: 80px;
+	box-shadow: 1px 1px 5px 0px; 
+	background-color: #6BB9F0;
+	height: 50px;
+	width: 250px;
+}
+
+.leftPart .thirdGame{
+	margin-left: 160px;
+	margin-right: 40px;
+	box-shadow: 1px 1px 5px 0px; 
+	background-color: #6BB9F0;
+	height: 50px;
+}
+
+.leftPart .forthGame{
+	margin-left: 230px;
+	box-shadow: 1px 1px 5px 0px; 
+	background-color: #6BB9F0;
+	height: 50px;
+	width: 100px;
+}
+
+.leftPart .fifthGame{
+	margin-left: 80px;
+	box-shadow: 1px 1px 5px 0px; 
+	background-color: #6BB9F0;
+	height: 50px;
+	width: 150px;
+}
+
+.leftPart .sixthGame{
+	margin-left: 80px;
+	box-shadow: 1px 1px 5px 0px; 
+	background-color: #6BB9F0;
+	height: 50px;
+	width: 250px;
+}
+
+.leftPart .seventhGame{
+	width: 564px;
+	height: 100px;
+	padding-bottom: 10px;
+	text-align: center;
+	-moz-transform: rotate(270deg);
+	-webkit-transform: rotate(270deg);
+	transform: rotate(270deg);
+	background-color: #3498DB;
+	box-shadow: 1px 1px 5px 0px; 
+	transform-origin: 28px 58px 168px;
+	float: left;
+}
+
+/*=================== Second div =======*/
+.secondPart{
+	width: 90px;
+/*	box-shadow: 1px 1px 5px 0px; */
+	float: left;
+}
+.secondPart .firstGame{
+	height: 50px;
+}
+
+.secondPart .secondGame{
+	height: 50px;
+}
+.secondPart .thirdGame{
+	height: 50px;
+}
+.secondPart .forthGame{
+	background-color: #3498DB;
+	height: 50px;
+	box-shadow: 1px 1px 5px 0px;
+}
+.secondPart .fifthGame{
+	height: 50px;
+}
+.secondPart .sixthGame{
+	height: 50px;
+}
+.secondPart .seventhGame{
+	height: 50px;
+}
+
+/*======== third part ============*/
+
+.thirdPart{
+	width: 150px;
+/*	box-shadow: 1px 1px 5px 0px;  */
+	float: left;
+}
+
+.thirdPart .firstGame{
+	margin-left: 0px;
+	box-shadow: 1px 1px 5px 0px; 
+	background-color: #19B5FE;
+	height: 50px;
+	width: 100px;
+}
+
+.thirdPart .secondGame{
+	margin-left: 0px;
+	box-shadow: 1px 1px 5px 0px; 
+	background-color: #19B5FE;
+	height: 50px;
+	width: 100px;
+}
+
+.thirdPart .thirdGame{
+	height: 50px;
+
+}
+.thirdPart .forthGame{
+	margin-left: 0px;
+	box-shadow: 1px 1px 5px 0px; 
+	background-color: #19B5FE;
+	height: 50px;
+	width: 100px;
+}
+.thirdPart .fifthGame{
+	height: 50px;
+}
+.thirdPart .sixthGame{
+	height: 50px;
+}
+
+.thirdPart .seventhGame{
+	margin-left: 0px;
+	box-shadow: 1px 1px 5px 0px; 
+	background-color: #19B5FE;
+	height: 50px;
+}
+
+
+.rightPart{
+width: 564px;
+	height: 45px;
+	padding-bottom: 10px;
+	text-align: center;
+	-moz-transform: rotate(270deg);
+	-webkit-transform: rotate(270deg);
+	transform: rotate(270deg);
+	background-color: #3498DB;
+	box-shadow: 1px 1px 5px 0px; 
+	transform-origin: 355px -351px 168px;
+	float: left;
+}
+
+.base{
+/*	background-image: url("graph.png"); */
+	width: 100%;
+border-bottom: 2px solid #19B5FE; 
+font-size: 6px;
+}
+
+
+.timeline{
+	
+	display: block;
+	clear: both;
+}
+
+.time{
+	clear: both;
+}
+
+.base{
+	/*background-color: #F2F1EF;*/
+	text-align: center;
+	margin-left: 80px;
+}
+
+
+
+.timeline p{
+	border-top:2px solid #19B5FE;
+	height: 3px;
+	padding: 0px;
+	width: 100%;
+	text-align: left;
+}
+
+.time p{
+	width: 100%;
+	text-align: left;
+}
+
+*{
+	font-size: 15px;
+	font-family: "Varela",sans-serif;
+
+}

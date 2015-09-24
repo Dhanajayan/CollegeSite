@@ -1,0 +1,6 @@
+[08-Sep-2015 12:41:00 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jashjaco_sym'@'localhost' (using password: YES) in /home1/jashjaco/public_html/rgcecsedept.in/mail/dataDB.php on line 7
+[08-Sep-2015 12:41:52 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jashjaco_sym'@'localhost' (using password: YES) in /home1/jashjaco/public_html/rgcecsedept.in/mail/dataDB.php on line 7
+[08-Sep-2015 12:42:02 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jashjaco_sym'@'localhost' (using password: YES) in /home1/jashjaco/public_html/rgcecsedept.in/mail/dataDB.php on line 7
+[08-Sep-2015 12:43:19 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jashjaco_sym'@'localhost' (using password: YES) in /home1/jashjaco/public_html/rgcecsedept.in/mail/dataDB.php on line 7
+[08-Sep-2015 12:43:32 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jashjaco_sym'@'localhost' (using password: YES) in /home1/jashjaco/public_html/rgcecsedept.in/mail/dataDB.php on line 7
+[08-Sep-2015 12:45:04 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jashjaco_sym'@'localhost' (using password: YES) in /home1/jashjaco/public_html/rgcecsedept.in/mail/dataDB.php on line 7

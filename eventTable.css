@@ -1,0 +1,82 @@
+.first{
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 80px;
+	background-color: #6BB9F0;
+}
+.second{
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 80px;	
+}
+.third{
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 80px;
+}
+.forth{
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 80px;
+}
+.fifth{
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 80px;
+}
+.scheduleheading{
+	width: 100%;
+	float: left;
+}
+
+/*.timehead{
+	width: 20%;
+	background-color: #6BB9F0;
+} */
+.technicalEvent{
+	width: 50%;
+	border-left: 1px solid grey;
+}
+.non-technical{
+	width: 50%;
+	border-left: 1px solid grey;
+	border-right: 1px solid grey;
+}
+i{
+	width: 2px;
+	height: 3px;
+}
+div{
+	border: 0px solid red;
+}
+.schedule{
+	padding-right: 20px;
+	padding-left: 20px;
+	
+}
+.firstrow{
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+}
+
+.secondrow{
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+}
+.thirdrow{
+	border-bottom: 1px solid gray;
+}
+.forthrow{
+	border-bottom: 1px solid gray;
+}
+.fifthrow{
+	border-bottom: 1px solid gray;
+}
+.first.technicalEvent{
+	border-left: 1px solid gray;
+}
